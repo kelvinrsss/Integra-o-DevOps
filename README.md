@@ -3,3 +3,4 @@ Repositório destinado às atividades desenvolvidas em sala de aula e às avalia
 
 ## Colaboradores
 Repositório aberto para colaboração da equipe da disciplina de Integração DevOps.
+## ASS: Kelvinrsss
